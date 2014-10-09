@@ -4,11 +4,7 @@ The Abyss
 Event Horizon
 Prometheus
 Stargate
-<<<<<<< HEAD
-Water Werld
-=======
-Water Wirld
->>>>>>> 9b97f198770e9526ec0cd3c8364bc42e34480cf7
+Water World
 A.I.
 Minority Report
 Edge Of Tomorrow
